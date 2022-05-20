@@ -1,4 +1,4 @@
-### Hi there 👋, I am Fernanda!
+### Hello everyone 👋, I am Fernanda! I am aspiring to become a Front-end Especialist Developer
 
 
 - 🚀 I’m currently studyind on Rocketseat, Cubos Academy and Infinity School
