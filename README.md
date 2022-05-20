@@ -3,7 +3,7 @@
 
 - 🚀 I’m currently studyind on Rocketseat, Cubos Academy and Infinity School
 - 😄 Soft skills:  I am proactive, self-taught, communicative and i love work in group
-- ⚡ Hard Skills: HTML%, CSS# and Javascript
+- ⚡ Hard Skills: HTML5, CSS3 and Javascript
 - 📝 Studyind: React Native and a little bit of JAVA, Python and MySQL
 - 🔭 I'm currently working as a monitor in a programming school
 - 💻 I’m looking for an opportunity as a Front-end junior developer
