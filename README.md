@@ -1,4 +1,4 @@
-### Hello 👋, I am Fernanda! I am aspiring to become a Front-end Especialist Developer
+### Hello 👋, I am Fernanda! I am aspiring to become a Front-end Specialist Developer
 
 Coffee lover, new experiences seeker. Looking for an opportunity as a Front-end junior developer
 
