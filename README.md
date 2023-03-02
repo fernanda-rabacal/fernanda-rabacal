@@ -3,8 +3,8 @@
 Coffee lover, new experiences seeker. Looking for an opportunity as a Front-end junior developer
 
 - 😄 Soft skills:  I am proactive, self-taught, communicative and i love work in group
-- ⚡ Hard Skills: HTML5, CSS3, JS, Typescript and React
-- 📝 Studyind: Node.js, MySQL and Laravel
+- ⚡ Hard Skills: Javascript, Typescript and ReactJs
+- 📝 Studyind: Node.js, MySQL, Next.js and React Native
 
 ###
 <div align="center">
