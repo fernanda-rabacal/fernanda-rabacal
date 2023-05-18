@@ -1,10 +1,9 @@
 ### Hello 👋, I am Fernanda! I am aspiring to become a Front-end Specialist Developer
 
-Coffee lover, new experiences seeker. Looking for an opportunity as a Front-end developer
+Coffee lover, new experiences seeker.
 
-- 😄 Soft skills:  I am proactive, self-taught, communicative and i love work in group
-- ⚡ Hard Skills: Javascript, Typescript and ReactJs
-- 📝 Studyind: Node.js, MySQL, Next.js and React Native
+- 😄 Soft skills:  I am proactive, self-taught, and communicative.
+- ⚡ Hard Skills: Javascript, Typescript and React
 
 ###
 <div align="center">
