@@ -1,9 +1,7 @@
-### Hello 👋, I am Fernanda! I am aspiring to become a Front-end Specialist Developer
+### Hello 👋, I am Fernanda! I am a Front-end Developer
 
-Coffee lover, new experiences seeker.
+Coffee lover, new experiences seeker, I am a proactive, self-taught, and communicative girl seeking to always become the best developer version of myself. I love studying everything about programming skills and at the moment my hard Skills are HTML and CSS, Javascript, Typescript, React js and React Native. Furthermore, i'm looking for studying Node.js and MySQL. I also have basic experience in Laravel and PHP.
 
-- 😄 Soft skills:  I am proactive, self-taught, and communicative.
-- ⚡ Hard Skills: Javascript, Typescript and React
 
 ###
 <div align="center">
@@ -16,16 +14,23 @@ Coffee lover, new experiences seeker.
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/typescript/typescript-plain.svg">
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="right" alt="Coffee" height="150" style="border-radius:50px;" src="https://i.pinimg.com/originals/aa/95/01/aa9501df489c885cce3f31b0fc6234ef.png">
   <img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="Next" height="30" width="40" src="https://devicons.railway.app/i/nextjs-dark.svg">
+ <img align="center" alt="Laravel" height="30" width="40" src="https://camo.githubusercontent.com/63f8942041c20acd922fef42fac8afe7bcbb3c8160eb211b46770f3d0fd0bd05/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f6c61726176656c2e737667">
+ <img align="center" alt="Vite" height="30" width="40" src="https://devicons.railway.app/i/vitejs.svg">
+ <img align="center" alt="Node" height="30" width="40" src="https://devicons.railway.app/i/nodejs.svg">
+ <img align="center" alt="Git" height="30" width="40" src="https://devicons.railway.app/i/git.svg">
+ 
+ 
+  <img align="right" alt="Coffee" height="150" style="border-radius:50px;" src="https://i.pinimg.com/originals/aa/95/01/aa9501df489c885cce3f31b0fc6234ef.png">
 </div>
 
 #
 <div>
 <a href="https://www.linkedin.com/in/fernanda-rabacal/" target="_blank">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /> 
-  </a>  
-  <a href="mailto:nandarabacal02@hotmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
+ <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /> 
+</a>  
+<a href="mailto:nandarabacal02@hotmail.com" target="_blank">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
   </div>
