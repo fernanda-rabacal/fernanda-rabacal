@@ -1,6 +1,6 @@
 ### Hello 👋, I am Fernanda! I am a Front-end Developer
 
-Coffee lover, new experiences seeker, I am a proactive, self-taught, and communicative girl seeking to always become the best developer version of myself. I love studying everything about programming skills and at the moment my hard Skills are HTML and CSS, Javascript, Typescript, React js and React Native. Furthermore, i'm looking for studying Node.js and MySQL. I also have basic experience in Laravel and PHP.
+Coffee lover and a seeker of new experiences. I am a proactive, self-taught, and communicative individual who is always striving to become the best version of myself as a developer. I am passionate about studying various programming skills, and currently, my strong skills lie in HTML, CSS, JavaScript, TypeScript, React.js, and React Native. Additionally, I am eager to delve into Node.js and MySQL to expand my knowledge further. I also possess basic experience in Laravel and PHP."
 
 
 ###
