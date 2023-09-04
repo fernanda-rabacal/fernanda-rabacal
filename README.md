@@ -1,6 +1,7 @@
 ### Hello 👋, I am Fernanda! I am a Front-end Developer
 
-Coffee lover and a seeker of new experiences. I am a proactive, self-taught, and communicative individual who is always striving to become the best version of myself as a developer. I am passionate about studying various programming skills, and currently, my strong skills lie in HTML, CSS, JavaScript, TypeScript, React.js, and React Native. Additionally, I am eager to delve into Node.js and MySQL to expand my knowledge further. I also possess basic experience in Laravel and PHP."
+Coffee lover and a seeker of new experiences. I am a proactive, self-taught, and communicative individual who is always striving to become the best version of myself as a developer. I am passionate about studying various programming skills, and currently, my strong skills lie in TypeScript, React.js, Next.js and React Native. Additionally, I am eager to delve into Node.js and MySQL to expand my knowledge further. I also possess basic experience in Laravel and PHP. 
+Currently i am a Front End Teacher, teaching HTML, CSS, Javascript, React.js, and also making REST APIs with Express to use in class, but i'm also looking for a full-stack job.
 
 
 ###
@@ -32,5 +33,8 @@ Coffee lover and a seeker of new experiences. I am a proactive, self-taught, and
 </a>  
 <a href="mailto:nandarabacal02@hotmail.com" target="_blank">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+<a href="https://telegram.com/fernandarabacal" target="_blank">
+  <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
 </a>
   </div>
