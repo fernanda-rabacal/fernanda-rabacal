@@ -1,6 +1,8 @@
 ### Hello 👋, I am Fernanda! I am a Front-end Developer
 
 Coffee lover and a seeker of new experiences. I am a proactive, self-taught, and communicative individual who is always striving to become the best version of myself as a developer. I am passionate about studying various programming skills, and currently, my strong skills lie in TypeScript, React.js, Next.js and React Native. Additionally, I am eager to delve into Node.js and MySQL to expand my knowledge further. I also possess basic experience in Laravel and PHP. 
+
+
 Currently i am a Front End Teacher, teaching HTML, CSS, Javascript, React.js, and also making REST APIs with Express to use in class, but i'm also looking for a full-stack job.
 
 
