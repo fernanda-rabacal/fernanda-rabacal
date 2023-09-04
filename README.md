@@ -28,13 +28,10 @@ Currently i am a Front End Teacher, teaching HTML, CSS, Javascript, React.js, an
 
 #
 <div>
-<a href="https://www.linkedin.com/in/fernanda-rabacal/" target="_blank">
- <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /> 
-</a>  
-<a href="mailto:nandarabacal02@hotmail.com" target="_blank">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-<a href="https://telegram.com/fernandarabacal" target="_blank">
-  <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
-</a>
-  </div>
+  <a href="https://www.linkedin.com/in/fernanda-rabacal/" target="_blank">
+   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /> 
+  </a>  
+  <a href="mailto:nandarabacal02@hotmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</div>
