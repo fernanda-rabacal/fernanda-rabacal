@@ -3,7 +3,7 @@
 Coffee lover and a seeker of new experiences. I am a proactive, self-taught, and communicative individual who is always striving to become the best version of myself as a developer. I am passionate about studying various programming skills, and currently, my strong skills lie in TypeScript, React.js, Next.js and React Native. Additionally, I am eager to delve into Node.js and MySQL to expand my knowledge further. I also possess basic experience in Laravel and PHP. 
 
 
-Currently i am a Front End Teacher, teaching HTML, CSS, Javascript, React.js, React Native and also making REST APIs with Express to use in class. I'm also working as a Full Stack Developer, using technologies like Laravel, Docker, React Native, Next.js and Nest.js as well. 
+Currently i am working as a Full Stack Developer, using technologies like Laravel, Docker, React Native, Next.js and Nest.js as well.  I'm also a Front End Teacher, teaching HTML, CSS, Javascript, React.js, React Native and also making REST APIs with Node.js and Express to use in class.
 
 
 ###
@@ -19,7 +19,7 @@ Currently i am a Front End Teacher, teaching HTML, CSS, Javascript, React.js, Re
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Next" height="30" width="40" src="https://devicons.railway.app/i/nextjs-dark.svg">
- <img align="center" alt="Laravel" height="30" width="40" src="https://camo.githubusercontent.com/63f8942041c20acd922fef42fac8afe7bcbb3c8160eb211b46770f3d0fd0bd05/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f6c61726176656c2e737667">
+ <img align="center" alt="Laravel" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain.svg">
  <img align="center" alt="Vite" height="30" width="40" src="https://devicons.railway.app/i/vitejs.svg">
  <img align="center" alt="Node" height="30" width="40" src="https://devicons.railway.app/i/nodejs.svg">
  <img align="center" alt="Git" height="30" width="40" src="https://devicons.railway.app/i/git.svg">
