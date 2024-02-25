@@ -3,7 +3,7 @@
 Coffee lover and a seeker of new experiences. I am a proactive, self-taught, and communicative individual who is always striving to become the best version of myself as a developer. I am passionate about studying various programming skills, and currently, my strong skills lie in TypeScript, React.js, Next.js and React Native. Additionally, I am eager to delve into Node.js and MySQL to expand my knowledge further. I also possess basic experience in Laravel and PHP. 
 
 
-Currently i am working as a Full Stack Developer, using technologies like Laravel, Docker, React Native, Next.js and Nest.js as well.  I'm also a Front End Teacher, teaching HTML, CSS, Javascript, React.js, React Native and also making REST APIs with Node.js and Express to use in class.
+Currently i am working as a Full Stack Developer, using technologies like Laravel, Docker, React Native, Next.js and Nest.js as well.  I'm also a developer teacher, teaching HTML, CSS, Javascript, React.js, React Native and also making REST APIs with Node.js and Express to use in class.
 
 
 ###
