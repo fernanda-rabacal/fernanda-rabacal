@@ -19,7 +19,7 @@ Currently i am working as a Full Stack Developer, using technologies like Larave
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Next" height="30" width="40" src="https://devicons.railway.app/i/nextjs-dark.svg">
- <img align="center" alt="Laravel" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain.svg">
+ <img align="center" alt="Laravel" height="30" width="40" src="https://as1.ftcdn.net/v2/jpg/05/83/61/64/1000_F_583616421_I2gICTJCaqquYwXvNJPWIvcxyJcIqT3J.jpg">
  <img align="center" alt="Vite" height="30" width="40" src="https://devicons.railway.app/i/vitejs.svg">
  <img align="center" alt="Node" height="30" width="40" src="https://devicons.railway.app/i/nodejs.svg">
  <img align="center" alt="Git" height="30" width="40" src="https://devicons.railway.app/i/git.svg">
