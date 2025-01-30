@@ -1,9 +1,9 @@
 ### Hello 👋, I am Fernanda! I am a Full-Stack Developer
 
-Coffee lover and a seeker of new experiences. I am a proactive, self-taught, and communicative individual who is always striving to become the best version of myself as a developer. I am passionate about studying various programming skills, and currently, my strong skills lie in TypeScript, React.js, Next.js and React Native. Additionally, I am eager to delve into Node.js and MySQL to expand my knowledge further. I also possess basic experience in Laravel and PHP. 
+Coffee lover and a seeker of new experiences. I am a proactive, self-taught, and communicative individual who is always striving to become the best version of myself as a developer. I am passionate about studying various programming skills, and currently, my strong skills lie in TypeScript, React.js, Next.js, Nestjs and React Native. Additionally, I am eager to delve MySQL to expand my knowledge further. I also possess basic experience in PHP whithin Laravel, PostgreSQL and Linux. 
 
 
-Currently i am working as a Full Stack Developer, using technologies like Laravel, Docker, React Native, Next.js and Nest.js as well.  I'm also a developer teacher, teaching HTML, CSS, Javascript, React.js, React Native and also making REST APIs with Node.js and Express to use in class.
+Currently i am working as a Full Stack Developer, using technologies like Docker, React Native, Next.js, NodeJS and AngularJS as well.  I'm also a developer teacher, teaching HTML, CSS, Javascript, React.js, React Native and also making REST APIs with Node.js and Express to use in class.
 
 
 ###
@@ -18,8 +18,8 @@ Currently i am working as a Full Stack Developer, using technologies like Larave
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Next" height="30" width="40" src="https://devicons.railway.app/i/nextjs-dark.svg">
- <img align="center" alt="Laravel" height="30" width="40" src="https://as1.ftcdn.net/v2/jpg/05/83/61/64/1000_F_583616421_I2gICTJCaqquYwXvNJPWIvcxyJcIqT3J.jpg">
+  <img align="center" alt="Next" height="30" width="40" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/next_js.png">
+ <img align="center" alt="Laravel" height="30" width="40" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/postgresql.png">
  <img align="center" alt="Vite" height="30" width="40" src="https://devicons.railway.app/i/vitejs.svg">
  <img align="center" alt="Node" height="30" width="40" src="https://devicons.railway.app/i/nodejs.svg">
  <img align="center" alt="Git" height="30" width="40" src="https://devicons.railway.app/i/git.svg">
