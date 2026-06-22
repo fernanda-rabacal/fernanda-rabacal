@@ -20,7 +20,7 @@ Currently i am working as a Full Stack Developer, using technologies like Docker
   <img align="center" alt="Node" height="30" width="40" src="https://devicons.railway.app/i/nodejs.svg">
   <img align="center" alt="Git" height="30" width="40" src="https://devicons.railway.app/i/git.svg">
  
-  <img align="right" alt="Coffee" height="150" style="border-radius:50px;" src="https://i.pinimg.com/originals/aa/95/01/aa9501df489c885cce3f31b0fc6234ef.png">
+  <img align="right" alt="Coffee" height="200" style="border-radius:50px;" src="https://i.pinimg.com/originals/aa/95/01/aa9501df489c885cce3f31b0fc6234ef.png">
 </div>
 
 #
