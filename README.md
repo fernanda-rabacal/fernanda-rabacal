@@ -13,16 +13,12 @@ Currently i am working as a Full Stack Developer, using technologies like Docker
 
 <div style="display: inline_block"><br>
   <img align="center" alt="JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="TS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/typescript/typescript-plain.svg">
+  <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Next" height="30" width="40" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/next_js.png">
- <img align="center" alt="Laravel" height="30" width="40" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/postgresql.png">
- <img align="center" alt="Vite" height="30" width="40" src="https://devicons.railway.app/i/vitejs.svg">
- <img align="center" alt="Node" height="30" width="40" src="https://devicons.railway.app/i/nodejs.svg">
- <img align="center" alt="Git" height="30" width="40" src="https://devicons.railway.app/i/git.svg">
- 
+  <img align="center" alt="Laravel" height="30" width="40" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/postgresql.png">
+  <img align="center" alt="Node" height="30" width="40" src="https://devicons.railway.app/i/nodejs.svg">
+  <img align="center" alt="Git" height="30" width="40" src="https://devicons.railway.app/i/git.svg">
  
   <img align="right" alt="Coffee" height="150" style="border-radius:50px;" src="https://i.pinimg.com/originals/aa/95/01/aa9501df489c885cce3f31b0fc6234ef.png">
 </div>
