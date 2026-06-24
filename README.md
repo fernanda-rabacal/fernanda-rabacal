@@ -8,7 +8,7 @@ Currently i am working as a Full Stack Developer, using technologies like Docker
 ###
 <div align="center">
 <img height="150em" src="https://github-readme-stats.vercel.app/api?username=fernanda-rabacal&count_private=true&show_icons=true&&theme=radical" />
- <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fernanda-rabacal&layout=compact&theme=radical"/>
+ <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fernanda-rabacal&layout=compact&theme=radical&hide=css,html,scss"/>
 </div>
 
 <div style="display: inline_block"><br>
